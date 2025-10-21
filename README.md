@@ -59,7 +59,7 @@ The dataset includes various physicochemical properties of wine such as:
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/yourusername/wine-quality-prediction.git
+git clone https://github.com/aarushdhawan11/Wine_Quality_Predictor.git
 
 # 2. Navigate to the project folder
 cd wine-quality-prediction
